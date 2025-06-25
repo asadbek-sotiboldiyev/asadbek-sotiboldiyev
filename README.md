@@ -11,6 +11,12 @@ Salom. Men Asadbek Sotiboldiyev backend web dasturchiman.
 <a href="https://www.youtube.com/@programmer_asadbek">
   <img src="https://img.shields.io/badge/yotube-red?logo=youtube&logoColor=white&style=for-the-badge" >
 </a>
+<a href="https://t.me/sotiboldiyev_asadbek">
+  <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" >
+</a>
+<a href="https://leetcode.com/u/asadbek_sotiboldiyev">
+  <img src="https://img.shields.io/badge/leetcode-orange?logo=leetcode&logoColor=white&style=for-the-badge" >
+</a>
 
 ----
 ### Statistika
