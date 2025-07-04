@@ -25,7 +25,7 @@ Salom. Men Asadbek Sotiboldiyev backend web dasturchiman.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbek-sotiboldiyev&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary>WakaTime stats</summary>
+  <summary>WakaTime statistika(24-iyun 2025-yildan beri)</summary>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asadbek_sotiboldiyev&theme=gruvbox" alt="WakaTime stats">
 </details>
 
